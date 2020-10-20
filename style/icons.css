@@ -1,0 +1,70 @@
+[-style-iconcode="0001"] {
+  content: " ";
+}
+[-style-iconcode="0002"] {
+  content: "    "; /*A tab*/
+}
+[-style-iconcode="0003"] {
+  content: "{";
+}
+[-style-iconcode="0004"] {
+  content: "}";
+}
+[-style-iconcode="0005"] {
+  content: "|";
+}
+[-style-iconcode="0006"] {
+  content: "\\"; /*Two slashes to escape a slash*/
+}
+[-style-iconcode="0007"] {
+  content: "'";
+}
+[-style-iconcode="0008"] {
+  content: '"';
+}
+[-style-iconcode="0009"] {
+  content: "(";
+}
+[-style-iconcode="000A"] {
+  content: ")";
+}
+/*Privite use area 000B to 000F*/
+[-style-iconcode="0010"] {
+  content: "1";
+}
+[-style-iconcode="0011"] {
+  content: "2";
+}
+[-style-iconcode="0012"] {
+  content: "3";
+}
+[-style-iconcode="0013"] {
+  content: "4";
+}
+[-style-iconcode="0014"] {
+  content: "5";
+}
+[-style-iconcode="0015"] {
+  content: "6";
+}
+[-style-iconcode="0016"] {
+  content: "7";
+}
+[-style-iconcode="0017"] {
+  content: "8";
+}
+[-style-iconcode="0018"] {
+  content: "9";
+}
+[-style-iconcode="0019"] {
+  content: "0";
+}
+[-style-iconcode="001A"] {
+  content: "<";
+}
+[-style-iconcode="001B"] {
+  content: ">";
+}
+[-style-iconcode="001C"] {
+  content: ":";
+}
